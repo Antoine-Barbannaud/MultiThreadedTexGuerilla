@@ -13,4 +13,7 @@ After a while, it seems the bottleneck becomes the disk write speed and not conv
 
 # Installation
 
-Download the archive as `.zip`, extract and run the `.exe` !
+- Download the archive as `.zip`, extract and run the `.exe` !
+
+- Specify the guerilla installation folder\
+For example: `S:/Documents/Guerilla2.3.26`
